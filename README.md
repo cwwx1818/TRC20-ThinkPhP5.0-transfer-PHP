@@ -6,11 +6,8 @@
 ### 私下交易微信USDT（45~USDT），（240￥）、支付宝（240￥），转钱找我要源码跟文档（QQ：1113249273）
 
 
-![5f16004899138a7a2404adcb5c0b7ad](https://user-images.githubusercontent.com/104345258/165248741-71e7fb4a-c178-4824-a1a3-4ce997840461.png)
+![1650959381(1)](https://user-images.githubusercontent.com/104345258/165249512-d1dba6bd-9b40-4e4c-ae79-52cacaa1d1e2.png)
 
-![98635f436f84cf8bddc5ab02cca7341](https://user-images.githubusercontent.com/104345258/165248761-633c3e71-ab92-4f1f-8e69-2e55742c85e8.png)
-
-![97375b98780084dbf6a1ee440d97f28](https://user-images.githubusercontent.com/104345258/165248776-4c7ae9f9-17d5-4ac8-800c-facfaced531d.png)
 
 
 
