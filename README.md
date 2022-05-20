@@ -3,7 +3,7 @@
 
 源码地址：[源码下载地址](https://www.kancloud.cn/bishengzhu/trc20)  
 
-### 私下交易微信USDT（100~USDT），（560￥）、支付宝（560￥），转钱找我要源码跟文档（QQ：1113249273），诚心购买可小刀
+### 私下交易微信USDT（60~USDT），微信（320￥）、支付宝（320￥），转钱找我要源码跟文档（QQ：1113249273），诚心购买私下，当前价格为看云价格的八折后的价格
 
 
 ![1650959381(1)](https://user-images.githubusercontent.com/104345258/165249512-d1dba6bd-9b40-4e4c-ae79-52cacaa1d1e2.png)
