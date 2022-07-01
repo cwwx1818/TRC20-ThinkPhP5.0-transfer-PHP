@@ -1,5 +1,5 @@
 
-# TRC20-ThinkPhP5.0
+# TRC20-ThinkPhP5.0 2022年7月1日09:36:05
 
 源码地址：[源码下载地址](https://www.kancloud.cn/bishengzhu/trc20)  
 
