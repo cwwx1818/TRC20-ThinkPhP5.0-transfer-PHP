@@ -1,6 +1,10 @@
 
 # TRC20-ThinkPhP5.0 2022年7月1日09:36:05   ，可无缝升级TP6
 
+
+# 目前已经基于这套API开发出来了靓号采集系统以及资金归集系统，相关详情看当前项目的doc文件 ：[相关代码详细说明](   https://github.com/cwwx1818/tron-api-code-trc20-trx-trc10-PHP/blob/main/%E5%85%B3%E4%BA%8ETronapi%E7%9A%84%E8%AF%B4%E6%98%8E.docx)
+
+
 源码地址：[源码下载地址](https://www.kancloud.cn/bishengzhu/trc20)  
 
 ### 私下交易微信USDT（60~USDT），微信（320￥）、支付宝（320￥），转钱找我要源码跟文档（QQ：1262135552），诚心购买私下，当前价格为看云价格的八折后的价格（已优惠价格，加QQ请告知是通过什么途径找到我的）
